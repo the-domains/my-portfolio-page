@@ -1,0 +1,28 @@
+name: My Portfolio Page
+favicon: null
+layout_spectrum: 0.5957940113730729
+typography_spectrum: 0.6807233586441725
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.7769967701751739
+  lightness: 0.17919383221305907
+  saturation: 0.4451544659677893
+  rhythmicContrast: 0.17821427970193326
+purpose: []
