@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[My Portfolio Page]]></title>
+        <description><![CDATA[My Portfolio Page]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 13 Dec 2015 15:41:10 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[I bought you this cake]]></title>
+            <description><![CDATA[<article><h1>I bought you this cake</h1><p>It's the thought that counts.  </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4ef04b7b-5a77-4d29-9d22-d15fce19508d.gif"></article>]]></description>
+            <link>undefinedi-bought-you-this-cake/index.html</link>
+            <guid isPermaLink="false">9ae736fe-c31e-4ecd-b89e-7e7d7cefa000</guid>
+            <pubDate>Sun, 13 Dec 2015 15:40:57 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
